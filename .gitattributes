@@ -1,0 +1,8 @@
+*   text    eol=lf
+
+# Don't convert line endings in binary files
+*.png   binary
+*.jpg   binary
+*.gif   binary
+*.bmp   binary
+*.ico   binary
